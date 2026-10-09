@@ -8,6 +8,14 @@
       "size": 1076321657,
       "requires_reinstall": false,
       "notes": { "tr": "OCR iyileştirmeleri, Çeviri iyileştirmeleri ve hata düzeltmeleri içerir.", "en": "Includes OCR processes, translation processes, and error corrections." }
+    },
+    {
+      "version": "1.5.1",
+      "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.1.exe",
+      "sha256": "831931e2a9cf4686de516bc792589ae0f6dfebd566e222201bbbec344e48fe58",
+      "size": 491781859,
+      "requires_reinstall": false,
+      "notes": { "tr": "OCR iyileştirmeleri, Çeviri iyileştirmeleri ve hata düzeltmeleri içerir.", "en": "Includes OCR processes, translation processes, and error corrections." }
     }
   ]
 }
