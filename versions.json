@@ -16,6 +16,14 @@
       "size": 491781859,
       "requires_reinstall": false,
       "notes": { "tr": "OCR iyileştirmeleri, Çeviri iyileştirmeleri ve hata düzeltmeleri içerir.", "en": "Includes OCR processes, translation processes, and error corrections." }
+    },
+    {
+      "version": "1.5.2",
+      "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.2.exe",
+      "sha256": "0ccdd1fdebffdfb1198267b34e82108ae17116079782b34ae56bc23b1cfdfc1d",
+      "size": 491805974,
+      "requires_reinstall": false,
+      "notes": { "tr": "Yeni oyun modu özelliği. CPU optimizasyonu ve hata düzeltmeleri içerir.", "en": "New game mode feature. Includes CPU optimization and bug fixes." }
     }
   ]
 }
