@@ -20,8 +20,8 @@
     {
       "version": "1.5.2",
       "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.2.exe",
-      "sha256": "3d48ac1cb23788cd73fc95fc4ecdd3242edd5bba3f4cc8a41c7fc1306d9ebd15",
-      "size": 491864955,
+      "sha256": "4b7e3f3ff55b53ca8a9ae3082fb6addb5ba349ae6825474926d6bf9a35ce0ec1",
+      "size": 491874658,
       "requires_reinstall": false,
       "notes": { "tr": "Yeni oyun modu özelliği. CPU optimizasyonu ve hata düzeltmeleri içerir.", "en": "New game mode feature. Includes CPU optimization and bug fixes." }
     }
