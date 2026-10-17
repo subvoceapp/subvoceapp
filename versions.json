@@ -24,6 +24,14 @@
       "size": 491874658,
       "requires_reinstall": false,
       "notes": { "tr": "Yeni oyun modu özelliği. CPU optimizasyonu ve hata düzeltmeleri içerir.", "en": "New game mode feature. Includes CPU optimization and bug fixes." }
+    },
+    {
+      "version": "1.5.4",
+      "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.4.exe",
+      "sha256": "1cf6f40d40dcd7d167dc050ddf9a0ceb23eaad4414c151253b5136789e552741",
+      "size": 491790902,
+      "requires_reinstall": false,
+      "notes": { "tr": "Laptopta Android TV Modunda bulunan bug, tv ve pc arasındaki bağlantı düzenlemelerini içerir, yeni ve gelişmiş apk sürümü websitesine eklendi. ", "en": "A bug affecting Android TV mode on laptops—related to connection configurations between the TV and the PC—has been addressed; an updated and improved APK version has been added to the website." }
     }
   ]
 }
