@@ -32,6 +32,14 @@
       "size": 491790902,
       "requires_reinstall": false,
       "notes": { "tr": "Laptopta Android TV Modunda bulunan bug, tv ve pc arasındaki bağlantı düzenlemelerini içerir, yeni ve gelişmiş apk sürümü websitesine eklendi. ", "en": "A bug affecting Android TV mode on laptops—related to connection configurations between the TV and the PC—has been addressed; an updated and improved APK version has been added to the website." }
+    },
+    {
+      "version": "1.5.5",
+      "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.5.exe",
+      "sha256": "766abb6a6c3f2ad6349b38022e0d2875198bc520b6ce3d766219d04d07eee8c7",
+      "size": 491801584,
+      "requires_reinstall": false,
+      "notes": { "tr": "Windows ölçeği hatası çözüldü, altyazı okuma hızı ve gösterimi iyileştirildi. ", "en": "Windows scaling issue resolved; subtitle reading speed and display improved." }
     }
   ]
 }
