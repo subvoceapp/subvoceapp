@@ -40,6 +40,14 @@
       "size": 491801584,
       "requires_reinstall": false,
       "notes": { "tr": "Windows ölçeği hatası çözüldü, altyazı okuma hızı ve gösterimi iyileştirildi. ", "en": "Windows scaling issue resolved; subtitle reading speed and display improved." }
+    },
+    {
+      "version": "1.5.6",
+      "url": "https://github.com/subvoceapp/subvoceapp/releases/download/SubvoceApp/Subvoce-1.5.6.exe",
+      "sha256": "99fcd6c521467baa806544ae6a61f583147038a5fb096c44348c7dc8df50d5da",
+      "size": 491780419,
+      "requires_reinstall": false,
+      "notes": { "tr": "Konuşmacı tanıması geliştirildi, konuşmacı için metin rengi değiştirilebilir hale geldi, performans iyileştirmeleri yapıldı, metin okuma iyileştirmeleri yapıldı.", "en": "Speaker recognition has been enhanced, text color for the speaker can now be changed, performance improvements have been implemented, and text-to-speech capabilities have been improved." }
     }
   ]
 }
